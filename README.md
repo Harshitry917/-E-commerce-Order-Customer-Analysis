@@ -40,5 +40,4 @@ This project helped me understand real-world data analysis and how to convert ra
 
 ---
 
-## 🔗 Project Link
-https://github.com/Harshitry917/Sales-Data-Analysis-
+
