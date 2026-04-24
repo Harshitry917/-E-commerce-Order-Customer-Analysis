@@ -1,21 +1,44 @@
-📊 E-commerce Order & Customer Analysis
-🔹 Project Overview
+# 📊 E-commerce Order & Customer Analysis
 
-This project focuses on analyzing customer and order data to generate business insights such as revenue trends, product performance, and customer behavior.
+## 📌 Overview
+This project analyzes e-commerce order and customer data to understand sales performance, customer behavior, and product trends using SQL.
 
-🔹 Tools Used
-SQL
-Power BI
-Excel
-🔹 Key Analysis
-Total Revenue and Order Count
-Product-wise Revenue
-Category-wise Revenue
-Customer-wise Analysis
-Monthly Sales Trend
-Top 5 Customers
-🔹 Key Insights
-Electronics category generates the highest revenue
-Top customers contribute significantly to total sales
-Sales show variation across months
-Few products drive most of the revenu
+---
+
+## 🛠 Tools Used
+- 🗄 SQL  
+- 📊 Power BI  
+- 📈 Excel  
+
+---
+
+## 📂 Dataset
+- 👤 Customers: Customer ID, Name  
+- 🛒 Orders: Product, Category, Quantity, Price, Order Date  
+
+---
+
+## 🔍 Key Analysis
+- 💰 Total Revenue & Orders  
+- 📦 Product-wise Performance  
+- 🏷 Category-wise Analysis  
+- 👥 Top 5 Customers  
+- 📅 Monthly Sales Trends  
+
+---
+
+## 💡 Key Insights
+- ⚡ Electronics generates highest revenue  
+- 🏆 Laptop & Mobile are top products  
+- 👤 Few customers contribute most revenue  
+- 📉 Sales vary across months  
+
+---
+
+## 🚀 Outcome
+This project helped me understand real-world data analysis and how to convert raw data into meaningful insights.
+
+---
+
+## 🔗 Project Link
+https://github.com/Harshitry917/Sales-Data-Analysis-
